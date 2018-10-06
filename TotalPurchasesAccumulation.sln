@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TotalPurchasesAccumulation", "TotalPurchasesAccumulation\TotalPurchasesAccumulation.csproj", "{B32CEE93-3F04-4CAB-9548-45EF03EE118E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B32CEE93-3F04-4CAB-9548-45EF03EE118E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B32CEE93-3F04-4CAB-9548-45EF03EE118E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B32CEE93-3F04-4CAB-9548-45EF03EE118E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B32CEE93-3F04-4CAB-9548-45EF03EE118E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4973824-5F1E-46F0-976A-8DC3E5EE8AAB}
+	EndGlobalSection
+EndGlobal
